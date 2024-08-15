@@ -1,5 +1,5 @@
 
-function App() {
+function Main() {
 
   return (
     <>
@@ -11,4 +11,4 @@ function App() {
   )
 }
 
-export default App
+export default Main
