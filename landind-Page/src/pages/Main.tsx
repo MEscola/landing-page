@@ -1,14 +1,9 @@
+//import { useState } from "react"
+
+import Frontend from "../templates/Frontend";
 
 function Main() {
-
-  return (
-    <>
-      <div>
-        <h1>TESTE</h1>
-      </div>
-      
-    </>
-  )
+  return <Frontend>Template</Frontend>
 }
 
-export default Main
+export default Main;

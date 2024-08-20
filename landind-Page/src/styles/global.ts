@@ -11,6 +11,10 @@ html, body, #root {
     height: 100%;
 }
 
+body { 
+    background-color: #F8FDFF;
+}
+
 button {
     background-color: none;
     border: none;

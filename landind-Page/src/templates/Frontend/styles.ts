@@ -6,3 +6,4 @@ export const Container = styled.main`
     margin: auto;
 `;
 
+//export default Container
