@@ -13,6 +13,7 @@ html, body, #root {
 
 body { 
     background-color: #F8FDFF;
+    font-family: "Poppins", sans-serif;
 }
 
 button {
