@@ -1,5 +1,7 @@
+import * as S from './styles';
+
 const Button = () => {
-    return <div>Button</div>
+    return <S.container>Button</S.container>
 }
 
 export default Button
