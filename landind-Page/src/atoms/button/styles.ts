@@ -8,13 +8,14 @@ color: #17A4D0;
 font-size: 14px;
 margin-left: 25px;
 border-radius: 5px;
-box-shadow: 0px 1px 20px - 10px 0px ;
-transition: all 25ms ease-out;
+box-shadow: 0px 0px 17px -8px transparent;
+transition: all 0.30s ease-out;
 
 &:hover {
     color: #fff;
     background-color: #17A4D0;
-    opacity: calc(70%);
+    //opacity: calc(70%);
+    box-shadow: 0px 0px 17px -4px #17A4D0;
 }
 
 `
