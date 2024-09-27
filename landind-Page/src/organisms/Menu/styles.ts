@@ -9,9 +9,11 @@ export const ItemList = styled.li`
     margin-right: 25px;
     font-weight: 500;
     
+    
 
     a {
     color: #1E255E;
+    transition: color 0.25s ease;
 
     &:hover {
         color:  #17A4D0;
